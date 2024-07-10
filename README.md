@@ -5,9 +5,9 @@
 
 - 📝 I also write film reviews at [letterboxd.com/Monopilot/](letterboxd.com/Monopilot/)
 
-- 📫 How to reach me **amitshibuk@gmail.com**
+- 📫 Reach me at **amitshibuk@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Also Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amitshibuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitshibuk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@monopilot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monopilot" height="30" width="40" /></a>
